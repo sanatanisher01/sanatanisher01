@@ -16,6 +16,10 @@
 - 🧠 Goal: Become an **AI engineer who can design, deploy, and inspire**
 
 ---
+<p align="center">
+  <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" width="400" alt="Coding GIF"/>
+</p>
+
 
 ## 🧰 Tech Stack
 
