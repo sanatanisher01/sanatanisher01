@@ -33,10 +33,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanatanisher01&show_icons=true&theme=radical&border_radius=10&count_private=true" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=sanatanisher01&theme=radical&hide_border=false" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanatanisher01&theme=radical&hide_border=false" width="47%" />
   <br />
   <img src="https://github-activity-graph.vercel.app/graph?username=sanatanisher01&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="100%" />
 </p>
+
 
 
 
