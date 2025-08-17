@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Aryan Gupta</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🎓 B.Tech CSE | 🤖 AI Enthusiast | 🏋️‍♂️ Fitness Lover</h3>
+<h3 align="center">🚀 Full-Stack Developer | 🎓 B.Tech CSE | 🤖 AI Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=500&center=true&lines=Eat.+Code.+Gym.+Repeat.;Love+building+smart+web+and+AI+apps;Learning+Python%2C+Django%2C+AI+%26+Data+Science" alt="Typing SVG" />
